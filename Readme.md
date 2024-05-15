@@ -70,4 +70,3 @@ This will generate blog posts, audit them, create image descriptions, generate i
 ## Cost Estimation
 - **DALL-E 3:** Approximately $0.08 per image.
 - **GPT-4o:** Approximately $0.01 per blog post.
-````
